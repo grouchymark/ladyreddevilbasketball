@@ -4611,6 +4611,10 @@ blockquote {
 #menu-74 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#header1-7b .lead {
+  color: #93a3a7;
+  font-style: italic;
+}
 #footer1-75 .mbr-section-subtitle,
 #footer1-75 .mbr-section-text {
   color: #fff;

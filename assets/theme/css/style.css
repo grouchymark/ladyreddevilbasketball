@@ -4505,24 +4505,29 @@ html.is-builder {
 .countdown2 .dot {
   display: none; }
 
-.contacts .mbr-section-subtitle,
-.contacts .mbr-section-title,
-.contacts .mbr-section-text {
-  color: #222; }
-.contacts .category {
-  font-size: 12px;
-  text-transform: uppercase;
-  margin-bottom: 10px; }
-.contacts .btn-wrap .btn {
-  width: 40px;
-  height: 40px;
-  padding: 0;
-  margin: 0 20px 20px 0;
-  line-height: 40px;
-  font-size: 1.25rem;
-  text-align: center; }
-.contacts .mbr-map {
-  height: 56vh; }
+.contacts {
+  display: table;
+  width: 100%; }
+  .contacts .mbr-section-subtitle,
+  .contacts .mbr-section-title,
+  .contacts .mbr-section-text {
+    color: #222; }
+  .contacts .category {
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-bottom: 10px; }
+  .contacts .btn-wrap .btn {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    margin: 0 20px 20px 0;
+    line-height: 40px;
+    font-size: 1.25rem;
+    text-align: center; }
+  .contacts .mbr-map {
+    height: 56vh; }
+  .contacts .mbr-table-cell {
+    width: 100%; }
 
 .contacts.contacts2 .btn {
   margin: 0 0 20px 20px; }
